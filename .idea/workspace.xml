@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6af3f30-d1a0-4097-8e7a-f72980e4351f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/dascy/sovle/PrintABC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/dascy/sovle/PrintInOrder.java" afterDir="false" />
+    <list default="true" id="d6af3f30-d1a0-4097-8e7a-f72980e4351f" name="Changes" comment="交替打印">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/dascy/sovle/PrintABC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/dascy/sovle/PrintABC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +56,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PrintInOrder">
+  <component name="RunManager" selected="Application.PrintABC">
     <configuration name="PrintABC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.dascy.sovle.PrintABC" />
       <module name="TreadTestDemo" />
@@ -92,8 +85,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintInOrder" />
         <item itemvalue="Application.PrintABC" />
+        <item itemvalue="Application.PrintInOrder" />
       </list>
     </recent_temporary>
   </component>
@@ -105,11 +98,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690208157351</updated>
-      <workItem from="1719902267361" duration="6824000" />
+      <workItem from="1719902267361" duration="8658000" />
     </task>
+    <task id="LOCAL-00001" summary="交替打印">
+      <option name="closed" value="true" />
+      <created>1719910332133</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719910332133</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="交替打印" />
+    <option name="LAST_COMMIT_MESSAGE" value="交替打印" />
   </component>
 </project>
